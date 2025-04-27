@@ -15,7 +15,8 @@ Bu proje, Flutter ile geliştirilmiş bir çoktan seçmeli **Quiz (Sınav)** uyg
 
 ![Image 27 Nis 2025 23_15_53](https://github.com/user-attachments/assets/6657b366-b834-432e-9bc1-1ce89cca4685)
 
-![Uploading Image 27 Nis 2025 23_20_23.png…]()
+![Image 27 Nis 2025 23_20_23](https://github.com/user-attachments/assets/23927ee3-6f57-404c-bb3f-09d379d9d56d)
+
 
 
 
